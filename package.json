@@ -1,0 +1,10 @@
+{
+  "name": "klaro",
+  "private": true,
+  "scripts": {
+    "test": "npm run test --prefix server"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.18"
+  }
+}
