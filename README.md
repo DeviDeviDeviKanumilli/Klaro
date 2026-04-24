@@ -29,4 +29,4 @@ cd client && npm run dev
 
 ## Documentation
 
-See the [`docs/`](docs/) folder for architecture and feature notes.
+See the [`docs/`](docs/) folder for architecture and feature notes. For a hackathon-style narrative, read [**How we built it**](docs/HOW_WE_BUILT_IT.md).
